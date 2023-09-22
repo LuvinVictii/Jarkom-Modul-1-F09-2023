@@ -1,5 +1,6 @@
 # Jarkom-Modul-1-F09-2023
 
+>Muhammad Daffa Harits 5025211005 <br> Muhammad Naufal Baihaqi 5025211103
 
 ## Soal 1
 ### User melakukan berbagai aktivitas dengan menggunakan protokol FTP. Salah satunya adalah mengunggah suatu file
