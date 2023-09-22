@@ -124,3 +124,13 @@ Langkah pengerjaan:
 ![image](https://github.com/LuvinVictii/Jarkom-Modul-1-F09-2023/assets/78089862/c355aa34-77dd-46bd-840d-adbcaddfc2d8)
 
 
+
+
+# KENDALA 
+
+1. Susah untuk connect dengan VPN ITS sehingga mengurangi waktu praktikum
+2. Lambatnya koneksi wifi
+
+
+
+
