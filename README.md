@@ -1,6 +1,11 @@
 # Jarkom-Modul-1-F09-2023
 
->Muhammad Daffa Harits 5025211005 <br> Muhammad Naufal Baihaqi 5025211103
+# **Anggota Kelompok**
+
+| Nama                      | NRP        |
+| ------------------------- | ---------- |
+| Muhammad Daffa Harits                | 5025211005 |
+| Muhammad Naufal Baihaqi       | 5025211103 |
 
 ## Soal 1
 ### User melakukan berbagai aktivitas dengan menggunakan protokol FTP. Salah satunya adalah mengunggah suatu file
@@ -75,7 +80,16 @@ Langkah pengerjaan:
 
 ## Soal 6
 ### Seorang anak bernama Udin Berteman dengan SlameT yang merupakan seorang penggemar film detektif. sebagai teman yang baik, Ia selalu mengajak slamet untuk bermain valoranT bersama. suatu malam, terjadi sebuah hal yang tak terdUga. ketika udin mereka membuka game tersebut, laptop udin menunjukkan sebuah field text dan Sebuah kode Invalid bertuliskan "server SOURCE ADDRESS 7812 is invalid". ketika ditelusuri di google, hasil pencarian hanya menampilkan a1 e5 u21. jiwa detektif slamet pun bergejolak. bantulah udin dan slamet untuk menemukan solusi kode error tersebut. <br>
-Kami tidak dapat mengerjakan soal ini karena bingung apa yang harus kami lakukan
+
+Pertama-tama, kita mencari source IP address pada packet bernomor 7812.
+
+![image](https://user-images.githubusercontent.com/115441787/269955543-872f6907-0d26-492c-bd00-a0dc50d11cc4.png)
+
+IP address = 104.18.14.101
+Selanjutnya, diberitahu bahwa ketika ditelusuri di google, hasil pencarian hanya menampilkan a1 e5 u21. Hal ini merupakan a1z26 cipher encryption. Dengan itu, kita perlu mendecrypt IP yang kita terima dan pada hint ketiga, tertulis bahwa rentang huruf yang digunakan hanya Huruf A-R, 1-18. Maka dari itu, untuk angka diatas 18, kita perlu memisahnya menjadi 2 angka, sehingga IP menjadi = 10 4 18 14 10 1.
+
+![image](https://user-images.githubusercontent.com/115441787/269955752-9cbab65c-2980-4110-b145-62d8c7cdb359.png)
+
 
 ## Soal 7
 ### Berapa jumlah packet yang menuju IP 184.87.193.88?
